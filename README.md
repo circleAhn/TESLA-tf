@@ -10,6 +10,7 @@ Precise measurements from sensors are crucial, but the data are usually collecte
 ## File Directory Structure
 - `dataset`: Contains experimental datasets
   - `./finedust_concentration_alldrop_firstcol_dataset/{region}_{sensor}_FirstCol.csv`
+  - We will provide soon due to the space limitations
 
 - `lbt`: Contains the experimental package
   - `./lbt`
@@ -72,3 +73,21 @@ Precise measurements from sensors are crucial, but the data are usually collecte
 - `--seed`
   Default: `2024`
   Description: Random seed for reproducibility.
+
+
+  
+## Citation
+
+If you would like to cite this paper, please make a copy of the following text. Thank you🤣
+
+```bibtex
+@misc{ahn2024tesla,
+      title={Real-time Calibration Model for Low-cost Sensor in Fine-grained Time series}, 
+      author={Seokho Ahn and Hyungjin Kim and Sungbok Shin and Young-Duk Seo},
+      year={2024},
+      eprint={2412.20170},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2412.20170}, 
+}
+```
