@@ -81,7 +81,7 @@ Precise measurements from sensors are crucial, but the data are usually collecte
 If you would like to cite this paper, please make a copy of the following text. Thank you🤣
 
 ```bibtex
-@misc{ahn2025tesla,
+@article{ahn2025tesla,
       title={Real-Time Calibration Model for Low-Cost Sensor in Fine-Grained Time Series},
       author={Ahn, Seokho and Kim, Hyungjin and Shin, Sungbok and Seo, Young-Duk},
       journal={Proceedings of the AAAI Conference on Artificial Intelligence},
