@@ -10,7 +10,7 @@ Precise measurements from sensors are crucial, but the data are usually collecte
 ## File Directory Structure
 - `dataset`: Contains experimental datasets
   - `./finedust_concentration_alldrop_firstcol_dataset/{region}_{sensor}_FirstCol.csv`
-  - We will provide soon due to the space limitations
+  - Please download via: https://drive.google.com/file/d/1sQpUlwFw2H4dyyXfvxcMKpTQhli8rhgj/view?usp=sharing
 
 - `lbt`: Contains the experimental package
   - `./lbt`
